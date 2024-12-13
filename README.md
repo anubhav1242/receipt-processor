@@ -9,5 +9,5 @@ This is an application that calculates points for receipts.
 ## To Run Locally
 1. Clone the repository:
    ```bash
-   git clone <repository-link>
+   git clone https://github.com/anubhav1242/receipt-processor.git
    cd receipt-processor
